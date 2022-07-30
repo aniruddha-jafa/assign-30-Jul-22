@@ -40,3 +40,8 @@ npm start
 # go to localhost:3000/
 # enter eq like 'x^2 + 5' and press 'Go'
 ```
+
+
+![graph-Jul-30-2022 18-22-58](https://user-images.githubusercontent.com/27879504/181915222-1b7ad279-3075-48f8-be31-1e0deb37ff52.gif)
+
+
